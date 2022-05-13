@@ -1,6 +1,6 @@
 Algoritmo Promediodenotas
 	Definir numeroestudiantes,i Como Entero
-	mostrar "ingrese numero de estudiantes"
+	mostrar "ingrese numero de personas"
 	leer numeroestudiantes
 	definir promedio como real
 	definir nota como real
